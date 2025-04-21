@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { ArrowRight, Zap } from "lucide-react";
+import { ArrowRight, BarChart3, Zap } from "lucide-react";
 
 const HeroSection = () => {
   return (
